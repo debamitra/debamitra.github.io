@@ -22,11 +22,11 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>I am a Software Engineer with 7+ years of experience with various back-end technologies. You are on my home page.</p>
+        <p>I am a Software Engineer with 10+ years of experience with various back-end technologies. You are on my home page.</p>
 		Here's my &nbsp;
         
-        <Link to="https://debamitra.github.io/debs-blog/">
-          blog
+        <Link to="https://debamitra.github.io/debs-journal/">
+          journal
         </Link>
 		!
       </Layout>
